@@ -1,0 +1,21 @@
+interface with database and retrieve requested private key and interface with desired smart contract.
+
+get private key onto client? or handle from server. 
+
+3 way handshake with ipfs and api with client.
+
+build out api to try out both? 
+
+how would I interface with all the diff dapp smart contracts if I did it all on the api.
+    I would have to download the dapp static page and then pass it down to the client where they choose the smart contract. 
+    inefficient
+
+I must find a secure way to pass the private key to the client. 
+    metamask stores private keys on the browser?
+
+
+I CAN STORE MY PRIVATE KEY IN A COOKIE
+    
+
+three way handshake between client server and ipfs.
+    this can also include added verification by requiring fb login and the ability to 
