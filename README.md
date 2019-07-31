@@ -1,4 +1,8 @@
-HOWDY! This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+HOWDY! 
+
+set up local https using this guide: https://www.freecodecamp.org/news/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec/
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

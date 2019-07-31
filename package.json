@@ -17,9 +17,9 @@
     "universal-cookie": "^4.0.0"
   },
   "scripts": {
-    "start": "node server/server.js",
+    "start": "HTTPS=true node server/server.js",
     "api": "node api/api.js",
-    "server": "nodemon --watch server server/server.js",
+    "server": "HTTPS=true nodemon --watch server server/server.js",
     "client": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

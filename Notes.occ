@@ -18,4 +18,6 @@ premade button component will call the api similar to the paypal button
 
 one single account stores the "active" crypto which is in low ammounts
 
+STORE PRIVATE KEY PARTS IN LOCAL STORAGE??? check ./src/index.js for how to do
+
 
