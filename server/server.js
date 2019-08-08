@@ -1,3 +1,5 @@
+// all this server does is forward the ipfs code to the clients.
+
 const express = require('express');
 require('dotenv').config();
 
